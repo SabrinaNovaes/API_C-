@@ -7,7 +7,7 @@ namespace C__API.Model
         public string sobrenome { get; set; }
         public string cpf { get; set; }
         public DateTime dataNacimento { get; set; }
-        public int telefone { get; set; }
+        public string telefone { get; set; }
         public string email { get; set; }
         public string senha { get; set; }
 

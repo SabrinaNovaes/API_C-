@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HceVKaLn4JrpqjbA4qTBJaGTc6S9mGTNX+ScMLq4d7Cfvl1mgJg09DJOSH9UWwgIrGOClBknpWYA1PMh7qefA==",
+  "dgSpecHash": "cj+CYQQlv1RjqmoZdswK4ZdeBI0Mxqqt9drvhs2xM0SrI/zuzymHg209T1VrrLljL+OGhWJIXF38HW/9Mh18PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\C#_API\\C#_API.csproj",
+  "projectFilePath": "C:\\Users\\Remakker\\Desktop\\Entrega-6\\C#_API\\C#_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Remakker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Remakker\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

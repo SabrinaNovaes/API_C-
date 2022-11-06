@@ -1042,11 +1042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Remakker\\Desktop\\C#_API\\C#_API.csproj",
+      "projectUniqueName": "C:\\Users\\Remakker\\Desktop\\Entrega-6\\C#_API\\C#_API.csproj",
       "projectName": "C#_API",
-      "projectPath": "c:\\Users\\Remakker\\Desktop\\C#_API\\C#_API.csproj",
+      "projectPath": "C:\\Users\\Remakker\\Desktop\\Entrega-6\\C#_API\\C#_API.csproj",
       "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Remakker\\Desktop\\C#_API\\obj\\",
+      "outputPath": "C:\\Users\\Remakker\\Desktop\\Entrega-6\\C#_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config"
