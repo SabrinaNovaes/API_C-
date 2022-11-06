@@ -1,3 +1,4 @@
 # Entrega-6
 
-Entrega modulo-6, api c# (ainda não funcional) 
+Entrega modulo-6, api c# 
+Classe Usuario com crud funcional;
